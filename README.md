@@ -1,2 +1,4 @@
 # dice_game
-Course Project - 骰子遊戲
+a course project
+
+骰子遊戲
